@@ -1,35 +1,41 @@
 # Personal Professional Profile
 
-This file contains the professional profile of Dev Fictício.
+This file contains the professional profile of Telmo Bezerra. This can be considered the source of truth.
 
 ## Summary
 
-Senior Fullstack Engineer with over 8 years of experience in web development. Specialized in building scalable applications using **Angular** and **Node.js**. Passionate about software architecture, clean code, and mentoring junior developers. Experienced in leading technical initiatives and modernizing legacy systems.
+Backend Developer with **5+ years of experience** focused on **C#/.NET** and **SQL Server**. Proven track record across diverse sectors including public finance, law enforcement/security, and fast-food retail. Experienced in delivering end-to-end fullstack solutions, leading middleware integrations, and applying clean architecture standards. **Microsoft Ambassador** contributor and **Ex-Military Officer**.
 
 ## Skills
 
 ### Primary Stack (Expert)
-- **Frontend:** Angular (v2+ to v17), TypeScript, RxJS, NgRx, HTML5, CSS3/SASS.
-- **Backend:** Node.js, NestJS, Express.
-- **Database:** PostgreSQL, MongoDB.
+- **Languages:** C#, .NET Core, VB.Net, SQL
+- **Databases:** SQL Server (main expertise), PostgreSQL, MySQL
+- **Architecture & Patterns:** Clean Architecture, SOLID, DDD, Repository Pattern
+- **Authentication:** JWT, OAuth 2.0
+- **Testing:** Unit Testing with xUnit, NUnit
+- **APIs:** RESTful API design
 
-### Secondary Stack (Intermediate/Basic)
-- **Frontend:** React (Hooks, Context API), Vue.js (Options API).
-- **Backend:** Python (FastAPI).
-- **DevOps:** Docker, AWS (EC2, S3, RDS), CI/CD (GitHub Actions).
+### Secondary Stack (Intermediate/Familiarity)
+- **Frontend:** JavaScript, React, Angular
+- **Databases:** MongoDB
+- **Cloud:** Azure, AWS
+- **DevOps:** CI/CD pipelines, Git
+- **Other:** AI integrations
 
 ## Languages
 
 - **Portuguese:** Native
-- **English:** Advanced (C1) - Capable of leading technical discussions and presentations.
+- **English:** Advanced — capable of direct communication with stakeholders and international teams
 
 ## Education
 
-- **B.S. in Computer Science** - Universidade Federal de Tecnologia (2014 - 2018)
+- **Postgraduate, Specialization in DevOps and SRE** — Pontifícia Universidade Católica (PUC Minas) — Graduation: Oct 2025
+- **B.Sc. Systems Analysis and Development** — Faculdade Unyleya — Graduation: Aug 2024
+- **Military Sciences** — Academia Militar das Agulhas Negras (AMAN) — Graduation: Jul 2022
 
-## Interests
+## Background Highlights
 
-- Open Source Contribution
-- Technical Writing
-- System Design
-- Developer Experience (DX)
+- **Ex-Military Officer** — trained leadership, discipline, and operational decision-making
+- **Microsoft Ambassador** contributor
+- Operated in international/remote contracts for US-based clients (MDE, US Police Departments)

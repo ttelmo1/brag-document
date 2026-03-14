@@ -1,58 +1,83 @@
-title: Senior Fullstack Engineer
+title: Backend Developer
 
 introduction: |
-  Senior Fullstack Engineer with over 8 years of experience in web development. Specialized in building scalable applications using **Angular** and **Node.js**. Passionate about software architecture, clean code, and mentoring junior developers. Experienced in leading technical initiatives and modernizing legacy systems.
+  Backend Developer with **5+ years of experience** focused on **C#/.NET** and **SQL Server**. Proven track record across diverse sectors including public finance, law enforcement/security, and fast-food retail. Experienced in delivering end-to-end fullstack solutions, leading middleware integrations, and applying clean architecture standards. Microsoft Ambassador contributor and Ex-Military Officer.
 
 links:
-  linkedin: https://www.linkedin.com/in/dev-ficticio/
-  github: https://github.com/dev-ficticio
+  linkedin: https://www.linkedin.com/in/telmobsj/
 
 experiences:
-  - id: techcorp
-    company: TechCorp
-    keySkills: Angular, Node.js, NestJS, PostgreSQL, AWS
-    roles:
-      - id: senior-fullstack-engineer
-        title: Senior Fullstack Engineer
-        period: 2022 - Present
-        bullets:
-          - Architected and led the migration of a monolithic AngularJS application to **Angular 16**, resulting in a **40% improvement in page load time**.
-          - Designed and implemented microservices using **NestJS** to decouple complex business logic from the legacy monolith.
-          - Mentored 3 junior developers, conducting code reviews and pair programming sessions to improve team code quality.
-          - Introduced **Unit Testing** coverage (Jest) from 0% to 65% in critical modules.
-
-  - id: websolutions
-    company: WebSolutions
-    keySkills: Angular, Node.js, Express, MongoDB
+  - id: jobsity-mde
+    company: Jobsity (Contractor for MDE)
+    keySkills: C#, .NET, SQL Server, ADA/W3C Compliance, Data Migration
     roles:
       - id: fullstack-developer
-        title: Fullstack Developer (Mid-level to Senior)
-        period: 2019 - 2022
+        title: Fullstack Developer
+        period: Aug 2025 – Present
         bullets:
-          - Built a custom e-commerce dashboard using **Angular** and **NgRx**, handling complex state management for inventory and sales data.
-          - Optimized backend API endpoints in **Node.js**, reducing response times by **30%** for high-traffic endpoints.
-          - Integrated third-party payment gateways (Stripe, PayPal) and shipping providers.
-          - Collaborated with UX/UI designers to implement responsive and accessible interfaces.
+          - Led project upgrades and migrations, enabling clients to adopt a new solution launched by the company in the market.
+          - Performed data migration tasks that enabled the transition from a legacy system to a modern one.
+          - Led the implementation of database projects, resulting in savings of thousands of dollars per year through the adoption of a new pull request model for relational databases.
+          - Implemented **ADA** and **W3C** compliance improvements, allowing the project to pass all categories and audits.
 
-  - id: startup-inc
-    company: StartUp Inc
-    keySkills: Angular, HTML, SASS, JavaScript
+  - id: omnigo-police
+    company: Omnigo (Contractor for US Police Departments)
+    keySkills: C#, .NET, Clean Architecture, REST APIs, NCIC Integration, xUnit
     roles:
-      - id: frontend-developer
-        title: Frontend Developer (Junior to Mid-level)
-        period: 2016 - 2019
+      - id: fullstack-developer-tech-lead
+        title: Fullstack Developer – Tech Lead
+        period: Jun 2025 – Present
         bullets:
-          - Developed reusable UI components using **Angular**, establishing a shared component library used across multiple internal projects.
-          - Implemented real-time features using WebSockets (Socket.io) for collaborative task editing.
-          - Participated in agile ceremonies (Scrum) and contributed to sprint planning and retrospectives.
+          - Led a middleware project that enabled the creation of a new software product.
+          - Developed a middleware **API** connecting dispatcher users and officers to the **NCIC** national crime database, implementing secure authentication and authorization flows, enabling nationwide background checks and lookups on records such as vehicles and firearms.
+          - Upgraded legacy systems to **clean architecture** standards to prepare them for the new NCIC middleware integration, ensuring code quality through automated testing in **C#**.
+          - Communicated directly with stakeholders, providing product insights and receiving feedback on improvements and project continuity.
+
+  - id: br-gaap
+    company: BR Gaap Corporation
+    keySkills: C#, .NET, Clean Architecture, React, Scrum, Unit Testing
+    roles:
+      - id: fullstack-developer
+        title: Fullstack Developer
+        period: Jan 2023 – Jun 2025
+        bullets:
+          - Contributed end-to-end to a project focused on public finance and funding management for all health units of the **São Paulo city health department**, one of the largest municipalities in Brazil.
+          - Participated in the implementation of **C#** improvements, clean architecture refactoring, and unit tests across multiple modules, collaborating with the team under tight deadlines.
+          - Applied **Scrum** and Agile methodologies adapted to a government contract model.
+          - Developed features using **React**.
+
+  - id: teamsoft-dominos
+    company: Teamsoft (Contractor for Domino's)
+    keySkills: C#, Angular, REST APIs, Kiosk Systems
+    roles:
+      - id: fullstack-developer
+        title: Fullstack Developer
+        period: Jan 2022 – Jun 2023
+        bullets:
+          - Using **C#** and **Angular**, contributed to the development of a self-service kiosk system for the largest pizza franchise in the world, supporting store operations in Rio de Janeiro.
+          - Acted as a Back-End developer on the kiosk system team, enabling automated orders in stores and significantly increasing the franchise's productivity.
+          - Collaborated in the development of a new call center platform, improving order management and enhancing the customer experience by intelligently routing calls to the nearest store.
 
 education:
-  - degree: B.S. in Computer Science
-    institution: Universidade Federal de Tecnologia
-    details: 2014 - 2018
+  - degree: Postgraduate, Specialization in DevOps and SRE
+    institution: Pontifícia Universidade Católica (PUC Minas)
+    details: Graduation Oct 2025
+
+  - degree: B.Sc. Systems Analysis and Development
+    institution: Faculdade Unyleya
+    details: Graduation Aug 2024
+
+  - degree: Military Sciences
+    institution: Academia Militar das Agulhas Negras (AMAN)
+    details: Graduation Jul 2022
 
 skills:
-  languages: JavaScript, TypeScript, Node.js, Python (Basic)
-  frameworks: Angular (v2+ to v17), NestJS, Express, React (Hooks), Vue.js
-  databases: PostgreSQL, MongoDB
-  devops: Docker, AWS (EC2, S3, RDS), CI/CD (GitHub Actions)
+  languages: C#, .NET Core, VB.Net, JavaScript, SQL
+  frameworks: React, Angular
+  databases: SQL Server, PostgreSQL, MySQL, MongoDB
+  cloud: Azure, AWS
+  devops: CI/CD pipelines, Git
+  patterns: Clean Architecture, SOLID, DDD, Repository Pattern
+  auth: JWT, OAuth 2.0
+  testing: xUnit, NUnit
+  other: RESTful API design, AI integrations

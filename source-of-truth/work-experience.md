@@ -1,32 +1,46 @@
 # Work Experience
 
-This file contains the work history of Dev Fictício.
+This file contains the work history of Telmo Bezerra. This can be considered the source of truth.
 
-## TechCorp (2022 - Present)
-**Role:** Senior Fullstack Engineer
-**Stack:** Angular, Node.js, NestJS, PostgreSQL, AWS.
+## Jobsity — Contractor for MDE
+**Role:** Fullstack Developer
+**Period:** Aug 2025 – Present
+**Location:** Remote
 
-Leading the modernization of the core legacy platform.
-- Architected and led the migration of a monolithic AngularJS application to **Angular 16**, resulting in a **40% improvement in page load time**.
-- Designed and implemented microservices using **NestJS** to decouple complex business logic from the legacy monolith.
-- Mentored 3 junior developers, conducting code reviews and pair programming sessions to improve team code quality.
-- Introduced **Unit Testing** coverage (Jest) from 0% to 65% in critical modules.
+Led project upgrades and migrations to enable client adoption of a new company product.
+- Led project upgrades and migrations, enabling clients to adopt a new solution launched by the company in the market.
+- Performed data migration tasks that enabled the transition from a legacy system to a modern one.
+- Led the implementation of database projects, resulting in savings of thousands of dollars per year through the adoption of a new pull request model for relational databases.
+- Implemented **ADA** and **W3C** compliance improvements, allowing the project to pass all categories and audits.
 
-## WebSolutions (2019 - 2022)
-**Role:** Fullstack Developer (Mid-level to Senior)
-**Stack:** Angular, Node.js, Express, MongoDB.
+## Omnigo — Contractor for US Police Departments
+**Role:** Fullstack Developer – Tech Lead
+**Period:** Jun 2025 – Present
+**Location:** Remote
 
-Developed and maintained e-commerce platforms for various clients.
-- Built a custom e-commerce dashboard using **Angular** and **NgRx**, handling complex state management for inventory and sales data.
-- Optimized backend API endpoints in **Node.js**, reducing response times by **30%** for high-traffic endpoints.
-- Integrated third-party payment gateways (Stripe, PayPal) and shipping providers.
-- Collaborated with UX/UI designers to implement responsive and accessible interfaces.
+Led middleware development enabling a new software product for US law enforcement agencies.
+- Led a middleware project that enabled the creation of a new software product.
+- Developed a middleware **API** connecting dispatcher users and officers to the **NCIC** national crime database, implementing secure authentication and authorization flows, enabling nationwide background checks and lookups on records such as vehicles and firearms.
+- Upgraded legacy systems to **clean architecture** standards to prepare them for the new NCIC middleware integration, ensuring code quality through automated testing in **C#**.
+- Communicated directly with stakeholders, providing product insights and receiving feedback on improvements and project continuity.
 
-## StartUp Inc (2016 - 2019)
-**Role:** Frontend Developer (Junior to Mid-level)
-**Stack:** Angular, HTML, SASS, JavaScript.
+## BR Gaap Corporation
+**Role:** Fullstack Developer
+**Period:** Jan 2023 – Jun 2025
+**Location:** Remote
 
-Worked on the frontend of a SaaS product for project management.
-- Developed reusable UI components using **Angular**, establishing a shared component library used across multiple internal projects.
-- Implemented real-time features using WebSockets (Socket.io) for collaborative task editing.
-- Participated in agile ceremonies (Scrum) and contributed to sprint planning and retrospectives.
+Contributed end-to-end to a public finance management system for the São Paulo city health department.
+- Contributed end-to-end to a project focused on public finance and funding management for all health units of the **São Paulo city health department**, one of the largest municipalities in Brazil.
+- Participated in the implementation of **C#** improvements, clean architecture refactoring, and unit tests across multiple modules, collaborating with the team under tight deadlines.
+- Applied **Scrum** and Agile methodologies adapted to a government contract model.
+- Developed features using **React**.
+
+## Teamsoft — Contractor for Domino's
+**Role:** Fullstack Developer
+**Period:** Jan 2022 – Jun 2023
+**Location:** Remote
+
+Contributed to the self-service and call center systems for Domino's Pizza operations in Rio de Janeiro.
+- Using **C#** and **Angular**, contributed to the development of a self-service kiosk system for the largest pizza franchise in the world, supporting store operations in Rio de Janeiro.
+- Acted as a Back-End developer on the kiosk system team, enabling automated orders in stores and significantly increasing the franchise's productivity.
+- Collaborated in the development of a new call center platform, improving order management and enhancing the customer experience by intelligently routing calls to the nearest store.
