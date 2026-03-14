@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /c/repos/brag-document -type f -name \"*.md\" -o -name \"*.json\" -o -name \"*.ts\" -o -name \"*.tsx\" -o -name \"*.js\" -o -name \"*.jsx\" -o -name \"Makefile\" -o -name \".cursorrules\" -o -name \".env*\" 2>/dev/null | head -100)",
+      "Bash(find /c/repos/brag-document -type f -name \"*.py\" 2>/dev/null | head -10)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
